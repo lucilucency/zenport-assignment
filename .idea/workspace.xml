@@ -3,6 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="78c9d5f9-96ea-4bd9-aab7-bbe309287182" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.idea/workspace.xml" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../src/App.js" afterPath="$PROJECT_DIR$/../src/App.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../src/components/Step3.jsx" afterPath="$PROJECT_DIR$/../src/components/Step3.jsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../src/components/Step4.jsx" afterPath="$PROJECT_DIR$/../src/components/Step4.jsx" />
     </list>
     <ignored path="$PROJECT_DIR$/../.tmp/" />
     <ignored path="$PROJECT_DIR$/../temp/" />
@@ -15,7 +18,56 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Step4.jsx" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../src/components/Step4.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="381">
+              <caret line="79" column="39" lean-forward="false" selection-start-line="79" selection-start-column="39" selection-end-line="79" selection-end-column="39" />
+              <folding>
+                <element signature="e#0#39#0" expanded="true" />
+                <marker date="1536397901850" expanded="true" signature="225:257" ph="{...}" />
+                <marker date="1536397901850" expanded="true" signature="237:256" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="App.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../src/App.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="258">
+              <caret line="181" column="4" lean-forward="false" selection-start-line="181" selection-start-column="4" selection-end-line="181" selection-end-column="4" />
+              <folding>
+                <marker date="1536398339174" expanded="true" signature="280:1051" ph="{...}" />
+                <marker date="1536398339174" expanded="true" signature="291:358" ph="{...}" />
+                <marker date="1536398339174" expanded="true" signature="372:473" ph="{...}" />
+                <marker date="1536398339174" expanded="true" signature="486:509" ph="{...}" />
+                <marker date="1536398339174" expanded="true" signature="524:600" ph="{...}" />
+                <marker date="1536398339174" expanded="true" signature="627:702" ph="..." />
+                <marker date="1536398339174" expanded="true" signature="717:760" ph="{...}" />
+                <marker date="1536398339174" expanded="true" signature="781:789" ph="{...}" />
+                <marker date="1536398339174" expanded="true" signature="820:849" ph="{...}" />
+                <marker date="1536398339174" expanded="true" signature="874:985" ph="{...}" />
+                <marker date="1536398339174" expanded="true" signature="1016:1050" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Step3.jsx" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../src/components/Step3.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="211" column="12" lean-forward="false" selection-start-line="211" selection-start-column="12" selection-end-line="211" selection-end-column="12" />
+              <folding>
+                <marker date="1536398209386" expanded="true" signature="264:356" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -26,8 +78,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>localUpdate</find>
-      <find>validateAll</find>
       <find>getState</find>
       <find>submitPro</find>
       <find>submitProcess</find>
@@ -56,6 +106,8 @@
       <find>.diff</find>
       <find>diff</find>
       <find>&gt;&gt;&gt;</find>
+      <find>map</find>
+      <find>.end</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -79,13 +131,13 @@
         <option value="$PROJECT_DIR$/../src/reducers/index.js" />
         <option value="$PROJECT_DIR$/../src/components/Step1.jsx" />
         <option value="$PROJECT_DIR$/../src/actions/dishes.json" />
-        <option value="$PROJECT_DIR$/../src/App.js" />
-        <option value="$PROJECT_DIR$/../src/components/Step4.jsx" />
         <option value="$PROJECT_DIR$/../src/components/Step2.jsx" />
-        <option value="$PROJECT_DIR$/../src/components/Step3.jsx" />
         <option value="$PROJECT_DIR$/../src/actions/index.js" />
         <option value="$PROJECT_DIR$/../README.md" />
         <option value="$PROJECT_DIR$/../package.json" />
+        <option value="$PROJECT_DIR$/../src/components/Step4.jsx" />
+        <option value="$PROJECT_DIR$/../src/components/Step3.jsx" />
+        <option value="$PROJECT_DIR$/../src/App.js" />
       </list>
     </option>
   </component>
@@ -108,8 +160,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="116" />
-    <option name="y" value="213" />
+    <option name="x" value="44" />
+    <option name="y" value="83" />
     <option name="width" value="1510" />
     <option name="height" value="907" />
   </component>
@@ -135,6 +187,17 @@
             <path>
               <item name="." type="b2602c69:ProjectViewProjectNode" />
               <item name="zenport-demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="." type="b2602c69:ProjectViewProjectNode" />
+              <item name="zenport-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="." type="b2602c69:ProjectViewProjectNode" />
+              <item name="zenport-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -185,15 +248,16 @@
       <option name="presentableId" value="Default" />
       <updated>1536336123704</updated>
       <workItem from="1536336125120" duration="11894000" />
-      <workItem from="1536370130280" duration="23687000" />
+      <workItem from="1536370130280" duration="24443000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35581000" />
+    <option name="totallyTimeSpent" value="36337000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="116" y="213" width="1510" height="907" extended-state="0" />
+    <frame x="44" y="83" width="1510" height="907" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2494929" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -203,7 +267,7 @@
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3302139" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3302139" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -429,26 +493,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../src/components/Step4.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="1" lean-forward="false" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../src/components/Step2.jsx">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="417">
           <caret line="134" column="18" lean-forward="false" selection-start-line="134" selection-start-column="18" selection-end-line="134" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../src/components/Step3.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="146" column="36" lean-forward="false" selection-start-line="146" selection-start-column="36" selection-end-line="146" selection-end-column="36" />
           <folding />
         </state>
       </provider>
@@ -477,19 +525,53 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../src/App.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="302">
-          <caret line="141" column="30" lean-forward="true" selection-start-line="141" selection-start-column="30" selection-end-line="141" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="6" lean-forward="true" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../src/components/Step3.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="211" column="12" lean-forward="false" selection-start-line="211" selection-start-column="12" selection-end-line="211" selection-end-column="12" />
+          <folding>
+            <marker date="1536398209386" expanded="true" signature="264:356" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../src/components/Step4.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="79" column="39" lean-forward="false" selection-start-line="79" selection-start-column="39" selection-end-line="79" selection-end-column="39" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+            <marker date="1536397901850" expanded="true" signature="225:257" ph="{...}" />
+            <marker date="1536397901850" expanded="true" signature="237:256" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="181" column="4" lean-forward="false" selection-start-line="181" selection-start-column="4" selection-end-line="181" selection-end-column="4" />
+          <folding>
+            <marker date="1536398339174" expanded="true" signature="280:1051" ph="{...}" />
+            <marker date="1536398339174" expanded="true" signature="291:358" ph="{...}" />
+            <marker date="1536398339174" expanded="true" signature="372:473" ph="{...}" />
+            <marker date="1536398339174" expanded="true" signature="486:509" ph="{...}" />
+            <marker date="1536398339174" expanded="true" signature="524:600" ph="{...}" />
+            <marker date="1536398339174" expanded="true" signature="627:702" ph="..." />
+            <marker date="1536398339174" expanded="true" signature="717:760" ph="{...}" />
+            <marker date="1536398339174" expanded="true" signature="781:789" ph="{...}" />
+            <marker date="1536398339174" expanded="true" signature="820:849" ph="{...}" />
+            <marker date="1536398339174" expanded="true" signature="874:985" ph="{...}" />
+            <marker date="1536398339174" expanded="true" signature="1016:1050" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
